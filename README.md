@@ -6,8 +6,8 @@ unsafe riding conditions in real time.
 
 ## Components Used
 - ESP32-S3
-- ADXL345 (accelerometer — fall detection)
-- HC-SR04 (ultrasonic — proximity/obstacle detection)
+- ADXL345 (accelerometer-fall detection)
+- HC-SR04 (ultrasonic-proximity/obstacle detection)
 - IR sensor
 
 ## How it works
@@ -16,5 +16,5 @@ unsafe riding conditions in real time.
 - Outputs alerts via Serial Monitor
 
 ## Status
-Personal/university project — built as part of learning embedded systems 
+Personal/university project built as part of learning embedded systems 
 and sensor integration.
